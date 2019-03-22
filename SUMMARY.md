@@ -10,5 +10,6 @@
 
 ## 内核管理
 
-* [内核参数](kernel-management/untitled.md)
+* [内核参数](kernel-management/untitled/README.md)
+  * [测试1](kernel-management/untitled/ce-shi-1.md)
 
